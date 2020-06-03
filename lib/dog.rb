@@ -3,12 +3,12 @@ require "pry"
 class Dog 
   
   def name=(name)
-    @name = name
+    @fido = name
   end
   end
  
   def name
-    @name 
+    @Fido
   end
 binding.pry
 
