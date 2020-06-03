@@ -1,7 +1,9 @@
 class Person 
   def name=(name)
     @name = name 
-  end
+    def job
+      puts "Singer"
+  end 
 def name 
   @name 
 end
