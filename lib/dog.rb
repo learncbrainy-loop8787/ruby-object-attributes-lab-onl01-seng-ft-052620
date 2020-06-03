@@ -8,13 +8,14 @@ def name=(dog_name)
   end
 end
 
+class Dog 
 def breed=(breed)
     @breed = breed
-  end
-
+  
+end
   def breed
     @breed
   end
-
+end
 
 
