@@ -10,5 +10,5 @@ class Dog
   def name
     @Fido
   end
-binding.pry
+
 
